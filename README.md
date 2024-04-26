@@ -68,6 +68,8 @@ This is a project focusing on meal ordering and meals selling for stores. The ma
 
 ## Screenshots
 
+![image](https://github.com/Colledev/SpeedMeal/assets/112740912/fc12670d-4346-48bc-8225-b50bf09ea483)
+
 ## License
 
 This project is licensed under the MIT License.
