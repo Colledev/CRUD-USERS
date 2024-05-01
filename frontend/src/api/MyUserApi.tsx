@@ -43,7 +43,7 @@ export const useCreateMyUser = () => {
 
 type UpdateMyUserRequest = {
   name: string
-  addressLine1: string
+  addressLine1?: string
   city: string
   state: string
   country: string
@@ -74,9 +74,9 @@ export const useUpdateMyUser = () => {
   const {
     mutateAsync: updateUser,
     isLoading,
-    isSuccess,
-    error,
-    reset,
+    // isSuccess,
+    // error,
+    // reset,
   } = useMutation(updateMyUserRequest)
 
   return {
