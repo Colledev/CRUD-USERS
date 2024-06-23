@@ -1,14 +1,10 @@
 # SpeedMeal App
 
-This is a project focusing on meal ordering and meals selling for stores. The main functionality is to allow users order meals and for stores to manage their restaurant and sales.
+This is a project focusing on oAuth and Profile edit.
 
 ## Features
 
-- **User Authentication**: Users can register, log in, and manage their accounts.
-- **Meal Ordering**: Customers can place meal orders from registered restaurants.
-- **Product Management**: Stores can add, edit, and remove products available for sale.
-- **Order Management**: Stores can view and manage received orders.
-- **Payments**: Integration with payment methods for transaction processing.
+- **User Authentication**: Users can register, log in, using oAuth security.
 
 ## Technologies Used
 
